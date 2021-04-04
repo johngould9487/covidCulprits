@@ -1,0 +1,9 @@
+C:\dev\missingEngine\bin\Debug\netstandard2.0\missingEngine.deps.json
+C:\dev\missingEngine\bin\Debug\netstandard2.0\missingEngine.dll
+C:\dev\missingEngine\bin\Debug\netstandard2.0\missingEngine.pdb
+C:\dev\missingEngine\obj\Debug\netstandard2.0\missingEngine.csprojAssemblyReference.cache
+C:\dev\missingEngine\obj\Debug\netstandard2.0\missingEngine.AssemblyInfoInputs.cache
+C:\dev\missingEngine\obj\Debug\netstandard2.0\missingEngine.AssemblyInfo.cs
+C:\dev\missingEngine\obj\Debug\netstandard2.0\missingEngine.csproj.CoreCompileInputs.cache
+C:\dev\missingEngine\obj\Debug\netstandard2.0\missingEngine.dll
+C:\dev\missingEngine\obj\Debug\netstandard2.0\missingEngine.pdb
